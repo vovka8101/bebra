@@ -1,0 +1,5 @@
+accommodation = житло / проживання = She arranged an accommodation for her daughter.
+main course = головна страва = It's time to serve up the main course
+sail = подорожувати (кораблем) = They went for a sail
+plum = слива = The plum fruit has purple skin and yellowish flesh
+urgently = терміново / негайно = We need it urgently
