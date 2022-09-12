@@ -226,7 +226,7 @@ marry someone = вийти заміж за когось = He'll marry her
 greatly = дуже сильно = It'll surprise you greatly
 sooner or later = рано чи пізно = It'll happen sooner or later
 reinvent the wheel = заново винайти велосипед = I think we don't need to reinvent the wheel
-disappointed = розчарований = Everybody will be disappointed
+disappointed / frustrated = розчарований = Everybody will be disappointed. I'm so frustrated right now
 forgive = пробачити = The teacher will forgive him
 hurry up = поспішати = My friend and I will hurry up. The rabbits hurry down the hole to keep from being eaten by the wolf
 borrow = позичати = His friend will borrow this money
@@ -338,5 +338,16 @@ fill in = заповнити / заповнювати = I filled in these docume
 insist on doing something = наполягати на виконанні чогось = He insisted on doing it
 deliver = доставити = They delivered the goods on time
 on time = вчасно = The delivery will be arrived on time
-accusation = звинувачення = He denied all the accusations
+accusations = звинувачення = He denied all the accusations
 destroy = зруйнувати = They destroyed the building
+funeral = похорони = At the funeral, you didn't even set with us
+struggle = боротьба / боротися = We had a struggle to stop the criminal
+suffer = страждати = Don't let him suffer because of me
+graduate = закінчити = What are you going to do when you graduate?
+country house = заміський будинок = He's invited you to his country house
+earlier = раніше = I retired earlier than most people
+discover = виявляти / довідуватися / відкривати = I want to discover what I can do
+favourite = улюблений = My favourite poet has written some lines about England which I love very much
+loudly = голосно / гучно = He spoke loudly enough for even those in the back row to hear
+break down = зламатися / зруйнувати = The police tried to break down the prisoner's opposition
+lawyer = адвокат = I'll have to talk to my lawyer about this

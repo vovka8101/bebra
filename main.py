@@ -79,7 +79,7 @@ def ua_to_en():
         if answ == en:
             count += 1
             print(f"+ True +")
-        elif answ == '--q':
+        elif answ == '--q' or answ == '--й':
             return
         else:
             print(f"- False - | Correct answer: {en}\nEx: {se}")
@@ -112,7 +112,7 @@ def en_to_ua():
         if answ == ua or flag:
             count += 1
             print(f"+ True + | {ua}")
-        elif answ == '--q':
+        elif answ == '--q' or answ == '--й':
             return
         else:
             print(f"- False - | Correct answer: {ua}\nEx: {se}")
@@ -126,7 +126,7 @@ def add_word():
     while True:
         rows = []
         word = input("\nEnter the word ('--q' for exit): ").lower()
-        if word == '--q':
+        if word == '--q' or word == '--й':
             break
 
         translate = input("Enter Ukrainian translate: ").lower()
