@@ -32,3 +32,7 @@ deliver = доставити = They delivered the goods on time
 on time = вчасно = The delivery will be arrived on time
 accusation = звинувачення = He denied all the accusations
 destroy = зруйнувати = They destroyed the building
+half an hour = півгодини = The lesson lasted for half an hour
+rarely / seldom = рідко = He smoked very rarely / seldom
+from time to time = час від часу = We communicated with each other from time to time
+each of them = кожного з них = It shoked each of them
