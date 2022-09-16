@@ -3,7 +3,7 @@ a couple of = пару (пару питань) = She asked him a couple of quest
 revise = переглянути / повторити = I revised your lessons one more time
 on foot = пішком = We went to the park on foot
 provide = забезпечити = They provided very good conditions
-consider = вважати = We considered it very important
+consider = вважати / розглянути = We considered it very important
 entered = поступив = I entered the university
 expect = очікувати = We expected these results
 reach = досягати / дійти / досяжність = I reached an Advanced level
@@ -13,7 +13,7 @@ unexpectedly = неочікувано / несподівано = They disappeare
 suggest doing something = пропонувати зробити щось = They suggested going to the cinema
 develop = розвивати / прогресувати = It developed our abilities
 require = вимагати = It required more efforts
-effort = зусилля = It required more efforts
+efforts = зусилля = It required more efforts
 receive = отримати = I received this letter
 faced = зіткнутися = I faced very serious difficulties
 describe = описати = He described her appearance
@@ -21,16 +21,16 @@ partly = частково = She partly agreed with me
 the following question = наступне питання = I answered the following question
 only later = тільки пізніше = I realized it only later
 opportunity = можливість = She missed that opportunity
-check in / out = зареєструватися / виписуватися / в'їхати в готель / виїхати з готелю = I checked in / out at 3 o'clock in the afternoon
-knock at/on the door = постукати в двері = He knocked at the door
+check in / check out = зареєструватися / виписуватися / в'їхати в готель / виїхати з готелю = I checked in / out at 3 o'clock in the afternoon
+knock at the door / knock on the door = постукати в двері = He knocked at the door
 introduce to = представити (prep) = I introduced him to them
-order = наказати = He ordered the soldiers to do it
+order to = наказати (prep) = He ordered the soldiers to do it
 jump over the fence = перепригнути через забор = He jumped over the fence
 fill in = заповнити / заповнювати = I filled in these documents. I field in the form
 insist on doing something = наполягати на виконанні чогось = He insisted on doing it
 deliver = доставити = They delivered the goods on time
 on time = вчасно = The delivery will be arrived on time
-accusation = звинувачення = He denied all the accusations
+accusations = звинувачення = He denied all the accusations
 destroy = зруйнувати = They destroyed the building
 half an hour = півгодини = The lesson lasted for half an hour
 rarely / seldom = рідко = He smoked very rarely / seldom
@@ -40,3 +40,11 @@ deserve = заслуговувати = He deserved it
 experience = зазнавати / пережити = He experienced so many difficulties
 difficulties = труднощі = He experienced so many difficulties
 recommend something to someone = рекомендувати щось комусь = He recommended this book to me
+divide something into = розділити щось на = I divided it into three parts
+wash up the dishes = мити посуд = She washed up the dishes
+own = володіти = He owned this business
+practice doing something = практикуватися робити щось = I practiced speaking English
+pray / prayer = молитися, молитва = He usually prayed in the morning
+accuse someone of something = звинувачувати когось в чомусь = They accused him of this crime
+have a rest = відпочивати (мати відпочинок) = He usually had a rest in the evening
+inform someone of something = проінформувати (повідомити) когось про щось = They informed us of this problem

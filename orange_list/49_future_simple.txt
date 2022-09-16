@@ -2,18 +2,18 @@ costs = витрати = We'll minimize the costs
 get tired = втомитися / стомлюватися = You'll get tired soon
 achieve = досягати = I'll achive this aim
 think over = обдумати = We'll think it over
-grateful to = вдячний = We'll be grateful to you for it
+grateful to = вдячний (prep) = We'll be grateful to you for it
 get married = одружуватися = They'll get married soon
 marry someone = вийти заміж за когось = He'll marry her
 greatly = дуже сильно = It'll surprise you greatly
 sooner or later = рано чи пізно = It'll happen sooner or later
 reinvent the wheel = заново винайти велосипед = I think we don't need to reinvent the wheel
-disappointed = розчарований = Everybody will be disappointed
+disappointed / frustrated = розчарований = Everybody will be disappointed
 forgive = пробачити = The teacher will forgive him
 hurry up = поспішати = My friend and I will hurry up
 borrow = позичати = His friend will borrow this money
 authorities = влади / органи влади = The authorities will regulate it somehow
-devote to = присвячувати = My friend and I will devote more free time to English
+devote to = присвячувати (prep) = My friend and I will devote more free time to English
 confuse = плутати = Students often confuse these words
 regret something = шкодувати про щось = His business partner will regret it
 measure = міра = These measures will stimulate our sales
@@ -30,7 +30,7 @@ absence = відсутність = The girl won't notice his absence
 approach = підхід = This approach won't be innovative enough
 attitude = відношення = Will it change their attitude?
 point at = вказувати на = Will you point at my mistakes?
-last for = тривати = Will it last forever?
+last for = тривати (prep) = Will it last forever?
 the day after tomorrow = післязавтра = Will you see him the day after tomorrow?
 available = доступний = Will you be available tomorrow morning?
 get dark = темніти = Will it get dark soon?
@@ -42,8 +42,8 @@ at last = нарешті = Will the boy pass this exam at last?
 express = виражати / висловити = Will overyone express their point of view?
 dissatisfaction = незадоволення = Will everyone express their dissatisfaction of the current situation?
 current = поточний = My current level of job satisfaction is pretty low
-manage to = спромогтися = I'll manage to solve this problem
-belong to = належати = What will belong to him?
+manage to = спромогтися (prep) = I'll manage to solve this problem
+belong to = належати (prep) = What will belong to him?
 produce = виробляти = Where will they produce it?
 take place = відбуватися (якась подія) = Where will the conference take place?
 on a regular basis = на регулярній основі = What channels will your friends watch on a regular basis?

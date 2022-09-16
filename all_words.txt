@@ -236,7 +236,7 @@ confuse = плутати = Students often confuse these words
 regret something = шкодувати про щось = His business partner will regret it
 measure = міра = These measures will stimulate our sales
 upset = засмучений = The kid was already too upset about something
-lead to something = призводити до чогось = It won't lead to success
+lead to something = призводити до чогось (lead - вести) = It won't lead to success
 guarantee = гарантувати = He won't guarantee it
 interrupt = перебивати = I won't interrupt him
 contest = конкурс = I won't participate in that contest
@@ -298,7 +298,7 @@ crew = екіпаж / суднова команда / бути частиною 
 revise = переглянути / повторити = I revised your lessons one more time
 on foot = пішком = We went to the park on foot
 provide = забезпечити = They provided very good conditions
-consider = вважати = We considered it very important
+consider = вважати / розглянути = We considered it very important
 entered = поступив = I entered the university
 expect = очікувати = We expected these results
 reach = досягати / дійти / досяжність = I reached an Advanced level
@@ -382,3 +382,39 @@ differently = по-іншому / інакше = I learned to move differently s
 lovely = мило / чудовий / чарівний = You have a lovely smile
 statement = заява / свідчення = But I am making a simple statement that life is better now than it has ever been
 learner / pupil = учень = Please tell your little pupil many things when you have much time
+handsome = красивий = Every mother’s child is handsome
+complicated = складний = I cannot solve this complicated problem
+puppet = лялька / ляльковий = He was created as a wooden puppet but he dreams of becoming a real boy
+cross my heart and hope to die = клянусь серцем, якщо брешу, то нехай помру = Cross my heart and hope to die
+conscience = совість = It looks to me like you still got a conscience inside of you
+hang = вішати = He hung the painting on the wall
+poster = плакат = I put the poster back into its tube
+store = магазин = I'm surprised the clothing store was open
+accountant = бухгалтер = Did you call my accountant?
+taste = смак = Have you ever tasted anything so delicious?
+thief = злодій / крадій = The thief was arrested and put in jail
+aware = в курсі / свідомий = Everybody is aware of the hazards of smoking
+hazard = небезпека = Potential hazards that may injure children should be removed from their sleeping areas
+rely = покладатися = He still relied on a taxi to get him from his apartment to Peabody
+interact = взаємодіяти = I don't interact with people much
+frequency / intencity = частота / частотний / частотність = You can't hear waves of such a high frequency. Experts recommend at least 150 minutes of moderate-intensity exercise or at least 75 minutes of high-intensity exercise a week
+relevant = актуальні = He refused to comment before he had seen all the relevant information
+out loud = вголос = I want to hear it out loud
+pretend = прикидатися / вдавати = She wasn't able to pretend to be okay
+divide something into = розділити щось на = I divided it into three parts
+wash up the dishes = мити посуд = She washed up the dishes
+own = володіти = He owned this business
+practice doing something = практикуватися робити щось = I practiced speaking English
+pray / prayer = молитися, молитва = He usually prayed in the morning
+accuse someone of something = звинувачувати когось в чомусь = They accused him of this crime
+have a rest = відпочивати (мати відпочинок) = He usually had a rest in the evening
+inform someone of something = проінформувати (повідомити) когось про щось = They informed us of this problem
+public = громадський / публічний = It was so embarrassing having to sing in public
+relative = родич / відносний = Get a relative to look after the children
+violin = скрипка = I don't know how to play a violin
+close = близький / близько / закривати = You were so close to graduating
+necklace = намисто = Anyone returning the necklace will be handsomely rewarded
+condition = стан / хвороба / умова = The car is in very good condition
+groupmate = одногрупник = I'll go there with my groupmates
+quality = якість = Quality is better than quantity
+reliable = надійний = It's an old car, but it's very reliable
