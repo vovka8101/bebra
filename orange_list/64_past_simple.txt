@@ -52,3 +52,4 @@ accident = нещасний випадок = They informed us of this accident
 suspicious = підозрілий = His behavior seemed very suspicious
 guilty / innocent = винний, невинний = I feel really guilty at forgetting her birthday again. They killed innocent people
 immediately / at once = відразу / негайно = It attracted our attention immediately / at once
+daily = щодня / щоденний = I practiced English daily
