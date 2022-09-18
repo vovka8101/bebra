@@ -48,3 +48,7 @@ pray / prayer = молитися, молитва = He usually prayed in the morn
 accuse someone of something = звинувачувати когось в чомусь = They accused him of this crime
 have a rest = відпочивати (мати відпочинок) = He usually had a rest in the evening
 inform someone of something = проінформувати (повідомити) когось про щось = They informed us of this problem
+accident = нещасний випадок = They informed us of this accident
+suspicious = підозрілий = His behavior seemed very suspicious
+guilty / innocent = винний, невинний = I feel really guilty at forgetting her birthday again. They killed innocent people
+immediately / at once = відразу / негайно = It attracted our attention immediately / at once
