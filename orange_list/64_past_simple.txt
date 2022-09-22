@@ -53,3 +53,5 @@ suspicious = підозрілий = His behavior seemed very suspicious
 guilty / innocent = винний, невинний = I feel really guilty at forgetting her birthday again. They killed innocent people
 immediately / at once = відразу / негайно = It attracted our attention immediately / at once
 daily = щодня / щоденний = I practiced English daily
+for no reason = без будь-якої причини = I often disagreed with them for no reason
+figure = цифра = I analyzed these figures

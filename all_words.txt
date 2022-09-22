@@ -45,7 +45,7 @@ turtle = черепаха = The turtle pushed his leathery body inside his hard 
 bat = кажан / летюча миша / бити / відбивати м'яч = At night, most bats use echolocation to find prey – sending out ultrasonic sound waves and listening for the echoes.
 duck = качка = The old duck quacked and quacked so I hardly slept a wink last night.
 wings = крила = The bird flapped its wings and flew away.
-satisfied = задоволений = Because Tish was satisfied with her new hairdo, she recommended the stylist to her friends.
+satisfied with / satisfied by = задоволений чимось / задоволений кимось (людина; обєкт; ситуація) = Because Tish was satisfied with her new hairdo, she recommended the stylist to her friends.
 passion = пристрасть = Kevin’s passion to win the champion chess tournament revealed his true competitive spirit by practicing day and night.
 worst = найгірший = The student said that the worst part of her already difficult school day was having to walk several miles to the bus stop.
 cross = хрест / перекреслювати / перетинати = The travelers must cross the river and come out on the other side if they want to keep moving.
@@ -62,12 +62,12 @@ burn = спалити / горіти / опік = Old wood best to burn, old win
 wild = дикий = Wild plants naturally grew all around my yard, unable to be tamed without weed killer.
 camp = табір = The mountaineers set up their base camp at the foot of the mountain.
 stuff = матеріал / речі = Judy put all of the stuff that she didn’t need any more outside for her garage sale tomorrow.
-proud = гордий / гордитися = Participants at the track meet made their coach proud, setting new school records and scoring in first place overall.
+proud of = гордий / гордитися (prep) = Participants at the track meet made their coach proud, setting new school records and scoring in first place overall.
 treat = звертатися / ставитися / лікувати = I like to treat my dog with all of the love in the world since he always treats me the same way.
 treatment = лікування / ставлення = Without treatment, she will almost certainly die.
 fit = пристосований / підходить / відповідати / співпадати = His clothes did not fit him very well.
 weigh = зважувати / важити = Truck drivers were asked to weigh their loads and report how much freight they were carrying.
-bake = пекти / запікати = Bake the potatoes for 15 minutes, till they're nice and crisp.
+bake in / bake something for = пекти в / запікати щось протягом = Bake the potatoes for 15 minutes, till they're nice and crisp.
 term = термін / семестр = The president only served one term and decided not to run for reelection.
 evil = зло / злий = There is no such things as good and evil for animals because animals do not understand right and wrong in regards to morality.
 hole = діра / отвір / дупло = The bomb blew a huge hole in the ground.
@@ -138,7 +138,7 @@ enjoyable = приємний = I find reading enjoyable, but my sister has more 
 exciting = захоплююче = When my wife announced we were having a baby, the exciting news made me go buy a house full of baby toys.
 hopeless = безнадійний = Sitting in jail, Roy felt that his situation was hopeless without the slightest possibility that he would ever see the light of day.
 exhibition = виставка = Over 200 period photographs are displayed at the Civil Rights exhibition in the center of the museum.
-occur = відбуватися = There was no way to predict when the earthquake would occur, but scientists were certain it would happen.
+occur = відбуватися (в певний момент, подія або процес) = There was no way to predict when the earthquake would occur, but scientists were certain it would happen.
 argue = сперечатися = People argue with each other all the time, generally because they disagree on some important matter.
 policy = політика = Our school policy states that students can only bring their lunch from home if they have a doctor’s excuse.
 awful = жахливий = I heard the awful news of my cousin’s death through a Facebook posting about the tragedy.
@@ -154,7 +154,7 @@ board = дошка = There are still two vacancies on the school board.
 grass = трава / пасовище = The grass is greener on the other side.
 tough = жорсткий / міцний = This meat's so tough I can hardly chew it!
 cruel = жорстокий = State animal laws prevent pet owners from treating their animals in a cruel way.
-count = рахувати / підрахунок = She can count up to 10 in Italian.
+count up to = рахувати до / підрахунок = She can count up to 10 in Italian.
 major = основний / важливий / майор = Since the brain and the heart are major organs in the system, any damage done to them is considered a priority by doctors.
 swear = присягатися / присяга / клятва = Do you swear to tell the truth, the whole truth, and nothing but the truth?
 sweep = підмітати = If you want to sweep the living room you will have to use a broom.
@@ -182,7 +182,7 @@ plug in = підключати = I am plugging in my charger to the wall.
 convenient = зручно = “If it is convenient for you,” said the neighbor, “I can meet you halfway so you don’t have to travel as far.”
 furniture = меблі = Once we arrived at the new house, we quickly set up the furniture so that we would have something to sleep in and sit on.
 compete = змагатися / конкурувати = On friday, our team will compete in a race against a neighboring school.
-fond = обожнювати = Although I like my new vehicle, I was fond of my old one as well.
+fond of = обожнювати (prep) = Although I like my new vehicle, I was fond of my old one as well.
 salary = зарплата = Sarah was grateful to accept a job with a higher salary and two weeks of paid vacation
 cuddle = обняти / притулитись / пригорнутись = Cuddle me.
 favor = прихильність / підтримка / підтримувати = Not all little girls favor dolls or shoes, in fact, some prefer cars and comic books
@@ -194,21 +194,21 @@ frighten = налякати / злякати = Hiding behind the door, the boy j
 nowadays = нині / у наш час / в теперешній час = “Cursing is so common nowadays,” said Grandpa, “because we never would have said anything impolite in public when I was your age.”
 admire = захоплюватися / милуватися = After the doctor helped me beat cancer, I started to greatly admire him.
 destiny = доля = Jacob believes that more than luck, destiny was the driving force that led him to Jessica.
-though = хоча / все-таки = Though he slept soundly, he awoke instantly.
-punish = наказувати / карати = As a way to punish the teen for no doing his chores, he was no longer allowed to use his iPad
+though = хоча (inf) / все-таки = Though he slept soundly, he awoke instantly.
+punish for = наказувати за / карати = As a way to punish the teen for no doing his chores, he was no longer allowed to use his iPad
 unless = якщо не / хіба що = Unless you turn in your homework, you will not pass this course.
-recent = нещодавно = A recent survey showed that 60 percent of kids today enjoy playing video games more than going outdoors.
+recent = недавній / останній = A recent survey showed that 60 percent of kids today enjoy playing video games more than going outdoors.
 stairs = сходи = There's a broom cupboard under the stairs.
-either = або = A door must be either shut or open.
+either ... or = або ... або = A door must be either shut or open.
 troops = війська = Enemy troops occupied the country.
 income = дохід = After losing his job, Mr. Davis had to find a new way to get income flowing in every month.
 threat = загроза = When the unstable country began making many nuclear weapons, other countries began to get worried that this was a threat of war.
 mostly = переважно / здебільшого = The audience consisted mostly of women.
-commit = здійснити / вчиняти = If I want to pass my next exam, I will need to commit myself to studying every day.
+commit = здійснити / вчиняти / піддавати = If I want to pass my next exam, I will need to commit myself to studying every day.
 salmon = лосось = Poach the salmon in white wine and water.
 afford = дозволяти собі / мати змогу = After saving all winter, the family could afford to splurge a little bit on vacation.
 apart = окремо / осторонь = The North Pole and the South Pole are both very far apart from one another, being on opposite sides of the planet
-shout = кричати = Children often shout at one another because they do not have the communication skills to solve disagreements appropriately.
+shout at = кричати на = Children often shout at one another because they do not have the communication skills to solve disagreements appropriately.
 grapes = виноград = The wine is made from organically grown grapes.
 jam = варення = He spread some strawberry jam on his toast.
 strawberry = полуниця = I've made a strawberry jelly for the children's tea.
@@ -218,20 +218,20 @@ sail = подорожувати (кораблем) = They went for a sail
 plum = слива = The plum fruit has purple skin and yellowish flesh
 costs = витрати = We'll minimize the costs
 get tired = втомитися / стомлюватися = You'll get tired soon
-achieve = досягати = I'll achive this aim
-think over = обдумати = We'll think it over
+achieve this aim = досягати цієї мети = I'll achive this aim
+think something over = обдумати щось = We'll think it over
 grateful to = вдячний = We'll be grateful to you for it
 get married = одружуватися = They'll get married soon
 marry someone = вийти заміж за когось = He'll marry her
 greatly = дуже сильно = It'll surprise you greatly
 sooner or later = рано чи пізно = It'll happen sooner or later
-reinvent the wheel = заново винайти велосипед = I think we don't need to reinvent the wheel
+reinvent the wheel = заново винайти колесо = I think we don't need to reinvent the wheel
 disappointed / frustrated = розчарований = Everybody will be disappointed. I'm so frustrated right now
 forgive = пробачити = The teacher will forgive him
-hurry up = поспішати = My friend and I will hurry up. The rabbits hurry down the hole to keep from being eaten by the wolf
-borrow = позичати = His friend will borrow this money
+hurry up = поспішати (prep) = My friend and I will hurry up. The rabbits hurry down the hole to keep from being eaten by the wolf
+borrow = позичати (в когось) = His friend will borrow this money
 authorities = влади / органи влади = The authorities will regulate it somehow
-devote to = присвячувати = My friend and I will devote more free time to English
+devote to = присвячувати (prep) = My friend and I will devote more free time to English
 confuse = плутати = Students often confuse these words
 regret something = шкодувати про щось = His business partner will regret it
 measure = міра = These measures will stimulate our sales
@@ -250,7 +250,7 @@ absence = відсутність = The girl won't notice his absence
 approach = підхід = This approach won't be innovative enough
 attitude = відношення = Will it change their attitude?
 point at = вказувати на = Will you point at my mistakes?
-last for = тривати = Will it last forever?
+last for = тривати (prep) = Will it last forever?
 the day after tomorrow = післязавтра = Will you see him the day after tomorrow?
 available = доступний = Will you be available tomorrow morning?
 get dark = темніти = Will it get dark soon?
@@ -263,8 +263,8 @@ at last = нарешті = Will the boy pass this exam at last?
 express = виражати / висловити = Will overyone express their point of view?
 dissatisfaction = незадоволення = Will everyone express their dissatisfaction of the current situation?
 current = поточний = My current level of job satisfaction is pretty low
-manage to = спромогтися = I'll manage to solve this problem
-belong to = належати = What will belong to him?
+manage to = спромогтися (prep) = I'll manage to solve this problem
+belong to = належати (prep) = What will belong to him?
 produce = виробляти = Where will they produce it?
 take place = відбуватися (якась подія) = Where will the conference take place?
 on a regular basis = на регулярній основі = What channels will your friends watch on a regular basis?
@@ -317,8 +317,8 @@ the following question = наступне питання = I answered the follow
 only later = тільки пізніше = I realized it only later
 opportunity = можливість = She missed that opportunity
 confession = зізнання / сповідь = She went to the police station and made a full confession
-check in / out = зареєструватися / виписуватися / в'їхати в готель / виїхати з готелю = I checked in / out at 3 o'clock in the afternoon
-knock at/on the door = постукати в двері = He knocked at the door
+check in / check out = зареєструватися / виписуватися / в'їхати в готель / виїхати з готелю = I checked in / out at 3 o'clock in the afternoon
+knock at the door / knock on the door = постукати в двері = He knocked at the door
 introduce to = представити (prep) = I introduced him to them
 casual = повсякденний / випадковий = If you form a casual style, then there may be several bracelets
 misheard = неправильно почув / недочув = I think I misheard it
@@ -330,11 +330,11 @@ disaster = катастрофа / лихо = It turned out to be a complete disa
 go smoothly = йти гладко = If everything goes smoothly, we'll go to the cinema
 talk it over = обговорити це = Well, we have five hours and 58 minutes to talk it over
 clarify = уточнити / роз'яснювати = Let me clarify my point
-be / keep in touch = будемо на зв'язку = We'll be / keep in touch
-likewise = так само = Nice to see you! Likewise!
-order = наказати = He ordered the soldiers to do it
+be in touch / keep in touch = будемо на зв'язку = We'll be / keep in touch
+likewise = так само (при зустрічі) = Nice to see you! Likewise!
+order to = наказати (prep) = He ordered the soldiers to do it
 jump over the fence = перепригнути через забор = He jumped over the fence
-fill in = заповнити / заповнювати = I filled in these documents. I field in the form
+fill in = заповнити (prep) / заповнювати = I filled in these documents. I field in the form
 insist on doing something = наполягати на виконанні чогось = He insisted on doing it
 deliver = доставити = They delivered the goods on time
 on time = вчасно = The delivery will be arrived on time
@@ -358,7 +358,7 @@ each of them = кожного з них = It shoked each of them
 century = століття / вік = We're living in the 21st century, Mary...
 corner = кут = She sat in the corner, watching my every move
 lonely = самотній = I'm so lonely
-homemade = домашній = They sold like homemade ice cream on a summer day
+homemade = домашній (зроблений вдома) = There is nothing better than homemade cheese
 parcel = посилка = This parcel is overweight by two kilos
 view = переглянути / вид = You have a nice view from your apartment
 several = декілька = It took me several minutes to respond
@@ -373,7 +373,7 @@ cycling = катання на велосипеді = I'd like to go cycling
 jogging = біг підтюпцем "трусцою" = As usual, he got up early in the morning and went jogging
 shop assistant = продавець = Behind the shop assistant on the till is a pair of shoes
 on the till = на касі = Behind the shop assistant on the till is a pair of shoes
-blonde = світлий = She lost her brilliant blonde hair
+blonde = світлий (волосся) = She lost her brilliant blonde hair
 common = поширений / спільний = In previous centuries capital punishment was common
 generous = щедрий = He's so generous; there's nothing he wouldn't do for us
 hospitable = гостинний / привітний = Georgia - it is small, cozy and hospitable
@@ -387,7 +387,7 @@ complicated = складний = I cannot solve this complicated problem
 puppet = лялька / ляльковий = He was created as a wooden puppet but he dreams of becoming a real boy
 cross my heart and hope to die = клянусь серцем, якщо брешу, то нехай помру = Cross my heart and hope to die
 conscience = совість = It looks to me like you still got a conscience inside of you
-hang = вішати = He hung the painting on the wall
+hang on = вішати (prep) = He hung the painting on the wall
 poster = плакат = I put the poster back into its tube
 store = магазин = I'm surprised the clothing store was open
 accountant = бухгалтер = Did you call my accountant?
@@ -426,3 +426,5 @@ put up with it = миритися з цим = I can't put up with it any longer
 get into debt = влізти в борги = In our culture, it's too easy to get into debt
 sleepy = сонний = I'm very sleepy
 daily = щодня / щоденний = I practiced English daily
+for no reason = без будь-якої причини = I often disagreed with them for no reason
+figure = цифра = I analyzed these figures
