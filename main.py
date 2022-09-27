@@ -22,13 +22,13 @@ def openFile():
             continue
         if len(dirs) > 0:
             print("\nDirectories list:")
-            for dir in dirs:
+            for dir in sorted(dirs, reverse=True):
                 i += 1
                 print(f"{i}. {dir}")
                 fn_list.append(dir)
 
         print("\nFiles list:")
-        for fn in files:
+        for fn in sorted(files, reverse=True):
             if fn.find('.txt') != -1:
                 i += 1
                 print(f"{i}. {fn}")
